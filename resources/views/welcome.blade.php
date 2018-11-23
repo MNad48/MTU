@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Muzaffargarh Teachers Association
                 </div>
 
                 <div class="links">
