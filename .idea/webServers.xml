@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="879a2ef2-e53d-4bd7-b038-0c8a7b123620" name="nadeem@nadeemedia.com" url="http://ftp.nadeemedia.com">
+        <fileTransfer host="ftp.nadeemedia.com" port="21" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
